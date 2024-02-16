@@ -1,1 +1,1 @@
-AdBlocker is a Python tool designed to block advertisements served by known ad servers while browsing the web. It uses regular expressions to match URLs against a predefined list of ad domains, preventing ad content from being displayed on webpages.
+AdHurtMyBrain is a Python tool designed to block advertisements served by known ad servers while browsing the web. It uses regular expressions to match URLs against a predefined list of ad domains, preventing ad content from being displayed on webpages.
